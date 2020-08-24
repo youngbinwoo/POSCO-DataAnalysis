@@ -16,4 +16,6 @@
 
 ### Prepare Dataset
 
+### Exploratory Data Analysis
+
 ### Time Series Analysis
