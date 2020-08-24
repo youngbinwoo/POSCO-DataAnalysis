@@ -18,5 +18,4 @@
 
 ### Exploratory Data Analysis
 
-### Time Series Analysis 
-    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Time%20Series%20Analysis)
+### Time Series Analysis  [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Time%20Series%20Analysis)
