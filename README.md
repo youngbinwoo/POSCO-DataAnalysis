@@ -15,9 +15,9 @@
 - keras
 
 ### Prepare Dataset
--order
--member
--product
+ - order   
+ - member  
+ - product  
 
 ### Exploratory Data Analysis
 
