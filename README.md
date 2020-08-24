@@ -12,5 +12,6 @@
 - pandas
 - numpy
 - matplotlib
+- keras
 
 ### Prepare Dataset
