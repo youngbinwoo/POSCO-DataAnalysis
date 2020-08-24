@@ -19,6 +19,9 @@
  - member  
  - product  
 
-### Exploratory Data Analysis
+### Exploratory Data Analysis    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Exploratory%20Data%20Analysis)
 
-### Time Series Analysis    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Time%20Series%20Analysis)
+### Data refinement    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Data%20refinement)
+
+### Modeling
+#### Time Series Analysis    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Time%20Series%20Analysis)
