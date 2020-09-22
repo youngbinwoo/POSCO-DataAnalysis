@@ -28,8 +28,10 @@
 
 
 #### - 3-1) Decision Tree    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Modeling/Decision%20Tree)  
-#### - 3-2) Market Basket Analsis    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Modeling/Market%20Basket%20Analsis)    
-#### - 3-3) Time Series Analysis    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Modeling/Time%20Series%20Analysis)   
+#### - 3-2) Market Basket Analsis    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Modeling/Market%20Basket%20Analsis)     
+: 장바구니 분석(연관분석)을 통해 
+#### - 3-3) Time Series Analysis    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Modeling/Time%20Series%20Analysis)    
+: 판매량에 대해 시계열 분석으로 예측하고, 이에 따른 물류 보관 방법을 변경합니다. 
 
 
 ### 4. Final [Click](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Final) 
