@@ -42,11 +42,11 @@
 
 ### 3. Modeling    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Modeling)      
 
-#### - 3-1) Decision Tree    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Modeling/Decision%20Tree)    
+####  3-1) Decision Tree    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Modeling/Decision%20Tree)    
 : 신규 고객의 회원 가입 시 우수고객 가능성을 예측하기 위한 모델을 만들어 잠재 우수 고객을 관리하는 모니터링 시스템 개발한다.    
-#### - 3-2) Market Basket Analsis    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Modeling/Market%20Basket%20Analsis)       
+####  3-2) Market Basket Analsis    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Modeling/Market%20Basket%20Analsis)       
 : 장바구니 분석(연관분석)을 통해 구매 증진을 위한 추천 서비스 제공하고, 사품의 연관 제품에 대한 추가 할인으로 고객의 구매력 증진하는 방안을 도출한다. 또한, 고객 특성 분류에 따른 저품 선호에 기반한 화면 배치로 구매 유도한다.  
-#### - 3-3) Time Series Analysis    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Modeling/Time%20Series%20Analysis)    
+####  3-3) Time Series Analysis    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Modeling/Time%20Series%20Analysis)    
 : 판매량에 대해 ARIMA 기법으로 예측한다. 이에 따른 정확도는 실제값과 예측값이 차이 -67이다. 이를 기반으로 물류 보관 방법을 바꾸어 효율적인 재고관리를 수행한다.  
 
 
