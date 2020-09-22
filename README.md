@@ -18,21 +18,21 @@
  - product  
 
 
-### Exploratory Data Analysis    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Exploratory%20Data%20Analysis)
+### 1. Exploratory Data Analysis    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Exploratory%20Data%20Analysis)
 
 
-### Data refinement    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Data%20refinement)
+### 2. Data refinement    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Data%20refinement)
 
 
-### Modeling    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Modeling)  
+### 3. Modeling    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Modeling)  
 
 
-#### - Decision Tree    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Modeling/Decision%20Tree)  
-#### - Market Basket Analsis    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Modeling/Market%20Basket%20Analsis)    
-#### - Time Series Analysis    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Modeling/Time%20Series%20Analysis)   
+#### - 3-1) Decision Tree    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Modeling/Decision%20Tree)  
+#### - 3-2) Market Basket Analsis    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Modeling/Market%20Basket%20Analsis)    
+#### - 3-3) Time Series Analysis    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Modeling/Time%20Series%20Analysis)   
 
 
-### Final [Click](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Final) 
+### 4. Final [Click](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Final) 
 - report  
 - program Demonstration Video
 
