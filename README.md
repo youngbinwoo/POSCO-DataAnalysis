@@ -22,16 +22,16 @@
 - matplotlib
 - keras
 
-### Prepare Dataset
+### 5. Prepare Dataset
  - Log Order (주문 데이터)    
  - Master product (제품 데이터)    
  - Master Member (소비자 데이터)  
 
 
-### 1. Data refinement    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Data%20refinement)    
+#### 1. Data refinement    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Data%20refinement)    
 : 데이터 신뢰성 확인 결과, 총 578개의 이상치가 발생되어 중요한 변수에 대한 정제작업 실시  
  
-### 2. Exploratory Data Analysis    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Exploratory%20Data%20Analysis)    
+#### 2. Exploratory Data Analysis    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Exploratory%20Data%20Analysis)    
 - 회원 수의 많은 부분을 차지하는 나이대는 30대, 40대 라는 사실 도출하였고, 이 고객들이 유입하는 경로를 고려한 마케팅 전략 필요하다.   
 - 인기상품 가격 인상 후 우수고객 유지율은 64%이며 일반고객 유지율은 41%이다. 일반고객을 장려하고 우수 고객을 유지할 수 있는 전략 필요하다.      
 - 구매 고객 중 회원으로 가입된 고객이 창출한 영업이익이 전체의 92% 차지한다. 따라서 회원으로 유입시킬 수 있는 전략 필요하다.    
@@ -40,17 +40,17 @@
 - 당사의 친환경 제품 판매량이 저조함에 따라 정부의 일회용품 규제에 대비하기 위해 친환경 제품에 대한 투자 시급하다.  
 
 
-### 3. Modeling    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Modeling)      
+#### 3. Modeling    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Modeling)      
 
-####  3-1) Decision Tree    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Modeling/Decision%20Tree)    
+#####  3-1) Decision Tree    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Modeling/Decision%20Tree)    
 : 신규 고객의 회원 가입 시 우수고객 가능성을 예측하기 위한 모델을 만들어 잠재 우수 고객을 관리하는 모니터링 시스템 개발한다.    
-####  3-2) Market Basket Analsis    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Modeling/Market%20Basket%20Analsis)       
+#####  3-2) Market Basket Analsis    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Modeling/Market%20Basket%20Analsis)       
 : 장바구니 분석(연관분석)을 통해 구매 증진을 위한 추천 서비스 제공하고, 사품의 연관 제품에 대한 추가 할인으로 고객의 구매력 증진하는 방안을 도출한다. 또한, 고객 특성 분류에 따른 저품 선호에 기반한 화면 배치로 구매 유도한다.  
-####  3-3) Time Series Analysis    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Modeling/Time%20Series%20Analysis)    
+#####  3-3) Time Series Analysis    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Modeling/Time%20Series%20Analysis)    
 : 판매량에 대해 ARIMA 기법으로 예측한다. 이에 따른 정확도는 실제값과 예측값이 차이 -67이다. 이를 기반으로 물류 보관 방법을 바꾸어 효율적인 재고관리를 수행한다.  
 
 
-### 4. Final [Click](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Final) 
+#### 5. Final [Click](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Final) 
 - 주요 고객층인 30대~40대는 유입 경로가 유튜브와 네이버 블로그라는 사실을 도출했다. 이에 따라 크리에이터와 콜라보로 시장 내 인지도를 확보하거나 서포터즈 활동을 추진하여 블로그 활성화 유도한다.    
 - 우수고객을 유지하기 위해 우수고객 성공사례 및 사용 후기를 기재하는 온라인 커퓨니티 개설한다. 고객 매장 홍보와 더불어 자사의 홍보 효과를 기대할 수 있다.  
 - 정부의 친환경 정책을 고려한 재사용 라이프 사이클 관리 체계 구축하고, 친환경 브랜드 이미지 구축한다.    
