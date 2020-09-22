@@ -1,8 +1,18 @@
 # POSCO-DataAnalysis  
-- POSCO AI/BigData 청년 아카데미 10기 B4조 DataAnalysis 프로젝트
 - 고객특성을 고려한 판매전략 수립 및 배송서비스 차별화를 통한 영업이익 증대
 
+# 과제 수행 배경
+## 1. 산업의 성장성
+코로나 19로 인한 정부의 사회적 거리두기 정책이 계속 되며 배달 서비스 이용률 증가와 더불어 포장 용기 시장의 규모가 급속히 증가하고 있다. 따라서 시장점유율을 확대하기 위한 새로운 성장 전략이 필요하다. 
 
+## 2. 위험요인  
+사장의 낮은 진입 장벽으로 인해 업체 수가 증가하고, 경쟁이 과열되고 있다. 이에 따라 매출 증가율이 지속적으로 하락하고 있는 경영위기를 극복할 방안이 필요하다. 
+
+## 3. 판매 전략
+코로나 19의 확산으로 간편식 선호도가 증가하고 있고, 비대면 소비가 활발해지고 있다. 이를 대비하는 마케팅 전략이 필요하다. 더불어 정부의 환경 규제가 심화되며 친환경제품의 판매를 확대해야한다. 최근에 생산 및 유통시스템을 통합하는 비즈니스 구조를 구축하여 거래비용을 줄이는 추세이다. 이러한 추세에 따라 통합형 비즈니스 벤츠마킹을 통해 물류 프로세스를 개선하고, 배송 지연의 문제를 해결한다. 
+
+## 4. 과제 수행 목표
+고객의 특성을 반영한 물품 추천과 물류 서비스 개선을 통해 영업 이익률을 향상한다. 
 
 ## Getting Started
 
@@ -18,13 +28,14 @@
  - product  
 
 
-### 1. Exploratory Data Analysis    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Exploratory%20Data%20Analysis)
+
+### 1. Data refinement    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Data%20refinement)  
 
 
-### 2. Data refinement    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Data%20refinement)
+### 2. Exploratory Data Analysis    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Exploratory%20Data%20Analysis)  
 
 
-### 3. Modeling    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Modeling)  
+### 3. Modeling    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Modeling)    
 
 
 #### - 3-1) Decision Tree    [CODE](https://github.com/youngbinwoo/POSCO-DataAnalysis/tree/master/Modeling/Decision%20Tree)  
